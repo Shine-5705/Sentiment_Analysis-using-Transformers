@@ -76,6 +76,9 @@ for lang, text in sample_texts.items():
     print()
   </code></pre>
 
+  <h2>Example GUI</h2>
+  <img src="Screenshot 2024-04-20 002248.png" alt="Example GUI" width="800">
+
   <h2>Acknowledgments</h2>
 
   <ul>
